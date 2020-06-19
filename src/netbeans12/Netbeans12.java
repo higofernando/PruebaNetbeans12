@@ -15,7 +15,7 @@ public class Netbeans12 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Bienvenidos");
+        System.out.println("Bienvenidos a Github");
     }
     
 }
